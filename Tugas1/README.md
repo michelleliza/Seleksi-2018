@@ -14,7 +14,7 @@
 
 ### Description
 
-This is a program to get data about restaurants in Bandung City from [pergikuliner.com] (http://pergikuliner.com).
+This is a program to get data about restaurants in Bandung City from [pergikuliner.com](http://pergikuliner.com). 
 
 ### Specification
 
@@ -26,14 +26,20 @@ Run the makefile with the command __mingw32-make__ in the command prompt.
 
 ### Screenshots
 
-### Reference
+<img src="/screenshots/screenshot1.PNG">
+<br>
+<img src="/screenshots/screenshot2.PNG">
+<br>
+<img src="/screenshots/screenshot3.PNG">
+
+### References
 
 The libraries used in this program are:
 ```
 1. BeautifulSoup4 - for the data scraping
 2. JSON, copy, os - to convert the data to a JSON file
 3. urllib - to open links from the internet
-4. time - to make delays between each requests
+4. time - to make delays between each request
 ```
 
 <p align="center">
