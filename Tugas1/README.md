@@ -68,16 +68,9 @@ Preprocessing contohnya :
 - Author
 ```
 
-<h1 align="center">
-  <br>
-  Selamat BerEksplorasi!
-  <br>
-  <br>
-</h1>
-
 <p align="center">
   <br>
-  Basdat Industries - Lab Basdat 2018
+  Michelle Eliza Gananjaya - 13516015
   <br>
   <br>
 </p>
