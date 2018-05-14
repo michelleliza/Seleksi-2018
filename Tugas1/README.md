@@ -24,13 +24,23 @@ Run the makefile with the command __mingw32-make__ in the command prompt.
 
 ### JSON Structure
 
+Each tuple of restaurant data contains information about:
+```
+1. The Name of the Restaurant
+2. The Region of the Restaurant's Location
+3. A List of the Restaurant's Cuisine(s)
+4. The Overall Rating of the Restaurant
+5. The Rating of the Restaurant's Food's Flavor
+6. The Price Range of the Food Sold by the Restaurant
+```
+
 ### Screenshots
 
-<img src="/screenshots/screenshot1.PNG">
+![screenshot1](https://github.com/michelleliza/Seleksi-2018/blob/master/Tugas1/screenshots/screenshot1.PNG)
 <br>
-<img src="/screenshots/screenshot2.PNG">
+![screenshot2](https://github.com/michelleliza/Seleksi-2018/blob/master/Tugas1/screenshots/screenshot2.PNG)
 <br>
-<img src="/screenshots/screenshot3.PNG">
+![screenshot3](https://github.com/michelleliza/Seleksi-2018/blob/master/Tugas1/screenshots/screenshot3.PNG)
 
 ### References
 
