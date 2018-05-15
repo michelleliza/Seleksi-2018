@@ -18,6 +18,8 @@ This is a program to get data about restaurants in Bandung City from [pergikulin
 
 ### Specification
 
+This program does data scraping to get certain data or information from a website without using API. The data collected from the scraper will be stored in a file with JSON format, and the file have to be preprocessed beforehand. There is also a Makefile provided to easily build, clean, and run the program. 
+
 ### How to Use
 
 Run the makefile with the command __mingw32-make__ in the command prompt.
